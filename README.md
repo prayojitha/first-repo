@@ -1,5 +1,5 @@
 # first-repo
-Keerthi Prayojitha Bere - M
+Keerthi Prayojitha Bere 
 <br>
 Approximately half of the GitHub team works remotely.
 <br>
